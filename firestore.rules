@@ -1,0 +1,75 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isSuperAdmin() {
+      return isSignedIn() && (
+        request.auth.token.email in ["edavachalniyas@gmail.com"] ||
+        exists(/databases/$(database)/documents/admins/$(request.auth.uid))
+      );
+    }
+
+    function isAdmin(userId) {
+      return isSignedIn() && exists(/databases/$(database)/documents/admins/$(userId));
+    }
+
+    match /institutions/{institutionId} {
+      allow read: if true;
+      allow create: if isSignedIn();
+      allow update, delete: if isSignedIn() && (
+        request.auth.uid == institutionId ||
+        isSuperAdmin()
+      );
+    }
+    
+    // Institution exam data subcollection
+    match /institutions/{institutionId}/data/{docId} {
+      allow read: if true;
+      allow write: if isSignedIn() && (
+        request.auth.uid == institutionId ||
+        isSuperAdmin()
+      );
+    }
+    
+    // User profile documents
+    match /users/{userId} {
+      allow read, write: if isSignedIn() && (request.auth.uid == userId || isSuperAdmin());
+    }
+    
+    // Global system settings & module status
+    match /system_settings/{docId} {
+      allow read: if true;
+      allow write: if isSuperAdmin();
+    }
+
+    // Exam Result Portal records
+    match /madrasa_results/{docId} {
+      allow read: if true;
+      allow write: if isSuperAdmin();
+    }
+
+    // Tarbiyah Continuous Evaluation records
+    match /madrasa_tarbiyah/{docId} {
+      allow read: if true;
+      allow write: if isSuperAdmin();
+    }
+
+    // Print & Courier Orders and User Suggestions
+    match /print_orders/{docId} {
+      allow read, write: if isSuperAdmin();
+    }
+
+    match /suggestions/{docId} {
+      allow read, write: if isSuperAdmin();
+    }
+
+    // Madrasa Print Licenses collection (Read: public, Write: SuperAdmin only)
+    match /madrasa_licenses/{licenseId} {
+      allow read: if true;
+      allow write: if isSuperAdmin();
+    }
+  }
+}

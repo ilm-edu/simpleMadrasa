@@ -1,0 +1,248 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Malayalam:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", "Noto Sans Malayalam", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Outfit", "Noto Sans Malayalam", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+/* Mobile App Touch and Safe Area Support */
+:root {
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+.pb-safe {
+  padding-bottom: env(safe-area-inset-bottom, 1rem);
+}
+
+.pt-safe {
+  padding-top: env(safe-area-inset-top, 0rem);
+}
+
+/* Custom Scrollbar for Desktop Software Feel */
+@media (min-width: 768px) {
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #f1f5f9;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 9999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
+  }
+}
+
+/* Custom CSS for neat print formatting */
+@page {
+  size: A4 portrait;
+  margin: 0;
+}
+
+@page print-landscape-mode {
+  size: A4 landscape;
+  margin: 0;
+}
+
+@media print {
+  html, body {
+    background-color: white !important;
+    background: white !important;
+    color: black !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    height: auto !important;
+    min-height: 0 !important;
+    max-height: none !important;
+    overflow: visible !important;
+    position: static !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Reset all React and layout wrappers so they NEVER clip, constrain height, or overflow */
+  #root,
+  #root > div,
+  main,
+  main > div,
+  div:has(#real-print-content),
+  div:has(.printable-paper-sheet),
+  div[class*="h-screen"],
+  div[class*="w-screen"],
+  div[class*="h-full"],
+  div[class*="overflow-hidden"],
+  div[class*="overflow-y-auto"],
+  div[class*="overflow-x-hidden"] {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    height: auto !important;
+    min-height: 0 !important;
+    max-height: none !important;
+    overflow: visible !important;
+    position: static !important;
+    transform: none !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: transparent !important;
+  }
+
+  /* Remove only explicitly marked screen UI controls from layout */
+  .no-print,
+  [class~="no-print"],
+  .no-print-area,
+  .print-controls-section,
+  header,
+  aside,
+  nav,
+  footer,
+  button:not(#real-print-content button):not(.printable-paper-sheet button),
+  div[role="dialog"]:not(:has(#real-print-content)):not(:has(.printable-paper-sheet)) {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    max-height: 0 !important;
+    width: 0 !important;
+    max-width: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    overflow: hidden !important;
+    opacity: 0 !important;
+  }
+
+  /* Reset the scalable paper wrappers so transform scale is 100% and zero clipping */
+  #preview-outer-wrapper,
+  #paper-wrapper-outer,
+  #printable-paper-inner,
+  #print-preview-outer-container,
+  .paper-scaling-wrapper,
+  .paper-canvas-container,
+  div[ref="paperContentRef"] {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    width: 100% !important;
+    max-width: 210mm !important;
+    min-width: 0 !important;
+    height: auto !important;
+    min-height: 0 !important;
+    max-height: none !important;
+    transform: none !important;
+    box-shadow: none !important;
+    border: none !important;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    background: white !important;
+    overflow: visible !important;
+    position: static !important;
+  }
+
+  body.print-landscape #preview-outer-wrapper,
+  body.print-landscape #paper-wrapper-outer,
+  body.print-landscape #printable-paper-inner,
+  body.print-landscape #print-preview-outer-container,
+  body.print-landscape #real-print-content,
+  body.print-landscape .printable-paper-sheet {
+    max-width: 297mm !important;
+    width: 100% !important;
+  }
+
+  /* Real printable content container: in-flow block, full physical width, perfectly paginated */
+  #real-print-content,
+  .printable-paper-sheet {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    position: static !important;
+    width: 100% !important;
+    max-width: 210mm !important;
+    min-width: 0 !important;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    background: white !important;
+    box-shadow: none !important;
+    border: none !important;
+    transform: none !important;
+    overflow: visible !important;
+  }
+
+  #real-print-content *,
+  .printable-paper-sheet * {
+    visibility: visible !important;
+    opacity: 1 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  #real-print-content .no-print,
+  #real-print-content .no-print *,
+  .printable-paper-sheet .no-print,
+  .printable-paper-sheet .no-print * {
+    display: none !important;
+    visibility: hidden !important;
+  }
+
+  /* Ensure page breaks operate properly with exact A4 sheet sizing */
+  .page-break-after {
+    page-break-after: always !important;
+    break-after: page !important;
+    width: 100% !important;
+    max-width: 210mm !important;
+    min-width: 0 !important;
+    margin: 0 auto !important;
+    box-sizing: border-box !important;
+    background: white !important;
+    overflow: visible !important;
+  }
+
+  body.print-landscape .page-break-after {
+    max-width: 297mm !important;
+    width: 100% !important;
+  }
+
+  table tr {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  .page-break-avoid, .label-print-card {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  /* Unlicensed Print Prevention (Browser Ctrl+P and PDF bypass blocker) */
+  body.unlicensed-user #root,
+  body.unlicensed-user #real-print-content,
+  body.unlicensed-user .printable-paper-sheet {
+    display: none !important;
+    visibility: hidden !important;
+  }
+
+  body.unlicensed-user::before {
+    content: "🔒 PRINT LICENSE REQUIRED \A\A This examination document requires an active Madrasa Print License.\A Please activate your license to print or export PDF.\A\A (പ്രിന്റ് ലൈസൻസ് ആക്ടിവേറ്റ് ചെയ്യുക)";
+    white-space: pre-wrap;
+    display: block !important;
+    font-family: system-ui, -apple-system, sans-serif;
+    font-size: 20pt;
+    font-weight: 800;
+    text-align: center;
+    color: #991b1b;
+    padding: 80pt 40pt;
+    border: 4pt dashed #dc2626;
+    margin: 40pt;
+    background: #fef2f2;
+    border-radius: 16pt;
+  }
+}

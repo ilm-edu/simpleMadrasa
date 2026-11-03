@@ -1,0 +1,4921 @@
+{
+  "appName": "Madrasa Seating Engine",
+  "backupType": "official_timetables_backup",
+  "version": "1.0",
+  "createdAt": "2026-10-21T15:36:06.292Z",
+  "createdBy": "Super Admin",
+  "activeBoardId": "skimvb_general_2026",
+  "totalBoards": 7,
+  "timetables": [
+    {
+      "id": "skimvb_quarterly_2026",
+      "boardName": "Samastha SKJMCC Central Council Quarterly Examination 2026-27",
+      "boardNameMl": "സമസ്ത കേരള ജംഇയ്യത്തുൽ മുഅല്ലിമീൻ സെൻട്രൽ കൗൺസിൽ (SKJMCC) - പാദവാർഷിക (ജനറൽ) പരീക്ഷ 2026-27",
+      "academicYear": "2026-27",
+      "term": "quarterly",
+      "termMl": "പാദവാർഷിക പരീക്ഷ",
+      "category": "general",
+      "categoryMl": "ജനറൽ മദ്റസ",
+      "description": "സമസ്ത കേരള ജംഇയ്യത്തുൽ മുഅല്ലിമീൻ സെൻട്രൽ കൗൺസിൽ (SKJMCC) ചേളാരി അംഗീകരിച്ച ഔദ്യോഗിക പാദവാർഷിക (ജനറൽ) പരീക്ഷാ ടൈംടേബിൾ 2026-27 (18-07-2026 മുതൽ 23-07-2026 വരെ, സമയം: രാവിലെ 06:30 മുതൽ 08:30 വരെ)",
+      "timing": "06:30 AM - 08:30 AM",
+      "isDefault": true,
+      "isVerified": true,
+      "source": "superadmin_verified",
+      "publishedAt": "2026-06-03T10:00:00.000Z",
+      "lastUpdated": "2026-10-21T15:25:47.905Z",
+      "updatedBy": "Super Admin",
+      "classes": {
+        "1": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "2": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "3": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഖുർആൻ, തദ്‌രീബുത്തലാവഃ, ഹിഫ്ള് (القرآن وتدريب التلاوة، الحفظ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "4": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഖുർആൻ, തദ്‌രീബുത്തലാവഃ, ഹിഫ്ള് (القرآن وتدريب التلاوة، الحفظ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "5": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "തജ്‌വീദ് (التجويد)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "25-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "6": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഖുർആൻ, ഹിഫ്ള് (القرآن ، الحفظ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "തജ്‌വീദ് (التجويد)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "7": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഖുർആൻ, ഹിഫ്ള് (القرآن ، الحفظ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "തജ്‌വീദ് (التجويد)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "8": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "9": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "10": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "11": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "12": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 1": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 2": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 3": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഖുർആൻ, തദ്‌രീബുത്തലാവഃ, ഹിഫ്ള് (القرآن وتدريب التلاوة، الحفظ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 4": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഖുർആൻ, തദ്‌രീബുത്തലാവഃ, ഹിഫ്ള് (القرآن وتدريب التلاوة، الحفظ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 5": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "തജ്‌വീദ് (التجويد)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "25-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 6": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഖുർആൻ, ഹിഫ്ള് (القرآن ، الحفظ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "തജ്‌വീദ് (التجويد)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 7": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഖുർആൻ, ഹിഫ്ള് (القرآن ، الحفظ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "തജ്‌വീദ് (التجويد)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 8": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 9": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 10": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 11": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "+1": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 12": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "+2": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ]
+      }
+    },
+    {
+      "id": "crowd_kerala_madrasa_2026",
+      "boardName": "Kerala Madrasa Quarterly Timetable (Crowdsourced / പൊതുസമൂഹം നൽകിയത്)",
+      "boardNameMl": "കേരള മദ്റസ പാദവാർഷിക പരീക്ഷ (ക്രൗഡ് ഡാറ്റ / പൊതു പങ്കാളിത്തം)",
+      "academicYear": "2025-2026",
+      "term": "quarterly",
+      "termMl": "പാദവാർഷിക പരീക്ഷ",
+      "category": "general",
+      "categoryMl": "ജനറൽ മദ്റസ",
+      "description": "Crowdsourced examination timetable contributed by community users. Needs verification by Madrasa Sadr Muallim.",
+      "isDefault": false,
+      "isVerified": false,
+      "source": "crowdsourced",
+      "publishedAt": "2026-09-17T08:30:00.000Z",
+      "lastUpdated": "2026-09-17T08:30:00.000Z",
+      "updatedBy": "Community Contributor (ഉപയോക്താവ് നൽകിയത്)",
+      "classes": {
+        "1": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ് (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖ്‌ലാഖ് (Akhlaq)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ലിസാൻ (Lisan)"
+          }
+        ],
+        "2": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          }
+        ],
+        "3": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ / അഖ്‌ലാഖ്"
+          }
+        ],
+        "4": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ / ദുറൂസ്"
+          }
+        ],
+        "5": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "15 Aug 2026",
+            "subject": "അഖ്‌ലാഖ്"
+          }
+        ],
+        "6": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തഫ്സീർ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "15 Aug 2026",
+            "subject": "അഖ്‌ലാഖ്"
+          }
+        ],
+        "7": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തഫ്സീർ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "15 Aug 2026",
+            "subject": "അഖ്‌ലാഖ്"
+          }
+        ],
+        "8": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          }
+        ],
+        "9": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          }
+        ],
+        "10": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ / ഹദീസ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "15 Aug 2026",
+            "subject": "അഖ്‌ലാഖ്"
+          }
+        ],
+        "11": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ് / ഉസൂലുൽ ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ് / സീറ"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ / അദബ്"
+          }
+        ],
+        "12": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ / ഹദീസ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ് / ഉസൂലുൽ ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ബലാഗ / ലിസാൻ"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "15 Aug 2026",
+            "subject": "തസവ്വുഫ് / അഖ്‌ലാഖ്"
+          }
+        ],
+        "Class 1": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ് (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖ്‌ലാഖ് (Akhlaq)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ലിസാൻ (Lisan)"
+          }
+        ],
+        "Class 2": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          }
+        ],
+        "Class 3": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ / അഖ്‌ലാഖ്"
+          }
+        ],
+        "Class 4": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ / ദുറൂസ്"
+          }
+        ],
+        "Class 5": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "15 Aug 2026",
+            "subject": "അഖ്‌ലാഖ്"
+          }
+        ],
+        "Class 6": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തഫ്സീർ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "15 Aug 2026",
+            "subject": "അഖ്‌ലാഖ്"
+          }
+        ],
+        "Class 7": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തഫ്സീർ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "15 Aug 2026",
+            "subject": "അഖ്‌ലാഖ്"
+          }
+        ],
+        "Class 8": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          }
+        ],
+        "Class 9": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          }
+        ],
+        "Class 10": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ / ഹദീസ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "15 Aug 2026",
+            "subject": "അഖ്‌ലാഖ്"
+          }
+        ],
+        "Class 11": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ് / ഉസൂലുൽ ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ് / സീറ"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ / അദബ്"
+          }
+        ],
+        "Class 12": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ / ഹദീസ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ് / ഉസൂലുൽ ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ബലാഗ / ലിസാൻ"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "15 Aug 2026",
+            "subject": "തസവ്വുഫ് / അഖ്‌ലാഖ്"
+          }
+        ]
+      }
+    },
+    {
+      "id": "skimvb_general_2026",
+      "boardName": "SKIMVB General Madrasa Exam Timetable (2026-27)",
+      "boardNameMl": "SKIMVB ജനറൽ മദ്റസ പരീക്ഷാ ടൈംടേബിൾ 2026-27",
+      "academicYear": "2026-2027",
+      "term": "annual",
+      "termMl": "വാർഷിക പരീക്ഷ",
+      "category": "general",
+      "categoryMl": "ജനറൽ മദ്റസ",
+      "description": "Updated exam timetable for Classes 1 to 12, from 24-10-2026 to 01-11-2026, based on the supplied schedule.",
+      "isDefault": false,
+      "isVerified": true,
+      "source": "superadmin_verified",
+      "publishedAt": "2026-09-14T15:00:00.000Z",
+      "lastUpdated": "2026-10-21T15:38:00.000Z",
+      "updatedBy": "Super Admin",
+      "classes": {
+        "1": [
+          {
+            "dayNum": 1,
+            "dateStr": "24 Oct 2026",
+            "subject": "ദീനിയ്യാത്ത് വ അഖ്ലാഖ് വൽ ഇംലാഅ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "25 Oct 2026",
+            "subject": "കിറാഅത്ത് വ കിതാബത്ത്"
+          }
+        ],
+        "2": [
+          {
+            "dayNum": 1,
+            "dateStr": "25 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "28 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "29 Oct 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "31 Oct 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "01 Nov 2026",
+            "subject": "ഖുർആൻ, ഹിഫ്ള്"
+          }
+        ],
+        "3": [
+          {
+            "dayNum": 1,
+            "dateStr": "25 Oct 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "26 Oct 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "27 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "28 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "31 Oct 2026",
+            "subject": "തരീഖ്"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "01 Nov 2026",
+            "subject": "ഖുർആൻ വ തദ്രീബു തിലാവത്ത്, ഹിഫ്ള്"
+          }
+        ],
+        "4": [
+          {
+            "dayNum": 1,
+            "dateStr": "25 Oct 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "26 Oct 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "28 Oct 2026",
+            "subject": "തരീഖ്"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "29 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "31 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          }
+        ],
+        "5": [
+          {
+            "dayNum": 1,
+            "dateStr": "25 Oct 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "26 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "27 Oct 2026",
+            "subject": "തരീഖ്"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "28 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "29 Oct 2026",
+            "subject": "തജ്‌വീദ്"
+          }
+        ],
+        "6": [
+          {
+            "dayNum": 1,
+            "dateStr": "25 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "26 Oct 2026",
+            "subject": "തരീഖ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "27 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "29 Oct 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "31 Oct 2026",
+            "subject": "തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "01 Nov 2026",
+            "subject": "ഖുർആൻ, ഹിഫ്ള്"
+          }
+        ],
+        "7": [
+          {
+            "dayNum": 1,
+            "dateStr": "26 Oct 2026",
+            "subject": "തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "27 Oct 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "28 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "29 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "31 Oct 2026",
+            "subject": "തരീഖ്"
+          }
+        ],
+        "8": [
+          {
+            "dayNum": 1,
+            "dateStr": "25 Oct 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "28 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "29 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "31 Oct 2026",
+            "subject": "തരീഖ്"
+          }
+        ],
+        "9": [
+          {
+            "dayNum": 1,
+            "dateStr": "25 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "26 Oct 2026",
+            "subject": "തരീഖ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "27 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "01 Nov 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          }
+        ],
+        "10": [
+          {
+            "dayNum": 1,
+            "dateStr": "25 Oct 2026",
+            "subject": "തഫ്സീർ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "26 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "28 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "29 Oct 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          }
+        ],
+        "11": [
+          {
+            "dayNum": 1,
+            "dateStr": "25 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "26 Oct 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "27 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "31 Oct 2026",
+            "subject": "തഫ്സീർ"
+          }
+        ],
+        "12": [
+          {
+            "dayNum": 1,
+            "dateStr": "25 Oct 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "27 Oct 2026",
+            "subject": "തഫ്സീർ"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "28 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "29 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          }
+        ],
+        "Class 1": [
+          {
+            "dayNum": 1,
+            "dateStr": "24 Oct 2026",
+            "subject": "ദീനിയ്യാത്ത് വ അഖ്ലാഖ് വൽ ഇംലാഅ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "25 Oct 2026",
+            "subject": "കിറാഅത്ത് വ കിതാബത്ത്"
+          }
+        ],
+        "Class 2": [
+          {
+            "dayNum": 1,
+            "dateStr": "25 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "28 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "29 Oct 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "31 Oct 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "01 Nov 2026",
+            "subject": "ഖുർആൻ, ഹിഫ്ള്"
+          }
+        ],
+        "Class 3": [
+          {
+            "dayNum": 1,
+            "dateStr": "25 Oct 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "26 Oct 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "27 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "28 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "31 Oct 2026",
+            "subject": "തരീഖ്"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "01 Nov 2026",
+            "subject": "ഖുർആൻ വ തദ്രീബു തിലാവത്ത്, ഹിഫ്ള്"
+          }
+        ],
+        "Class 4": [
+          {
+            "dayNum": 1,
+            "dateStr": "25 Oct 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "26 Oct 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "28 Oct 2026",
+            "subject": "തരീഖ്"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "29 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "31 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          }
+        ],
+        "Class 5": [
+          {
+            "dayNum": 1,
+            "dateStr": "25 Oct 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "26 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "27 Oct 2026",
+            "subject": "തരീഖ്"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "28 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "29 Oct 2026",
+            "subject": "തജ്‌വീദ്"
+          }
+        ],
+        "Class 6": [
+          {
+            "dayNum": 1,
+            "dateStr": "25 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "26 Oct 2026",
+            "subject": "തരീഖ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "27 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "29 Oct 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "31 Oct 2026",
+            "subject": "തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "01 Nov 2026",
+            "subject": "ഖുർആൻ, ഹിഫ്ള്"
+          }
+        ],
+        "Class 7": [
+          {
+            "dayNum": 1,
+            "dateStr": "26 Oct 2026",
+            "subject": "തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "27 Oct 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "28 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "29 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "31 Oct 2026",
+            "subject": "തരീഖ്"
+          }
+        ],
+        "Class 8": [
+          {
+            "dayNum": 1,
+            "dateStr": "25 Oct 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "28 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "29 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "31 Oct 2026",
+            "subject": "തരീഖ്"
+          }
+        ],
+        "Class 9": [
+          {
+            "dayNum": 1,
+            "dateStr": "25 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "26 Oct 2026",
+            "subject": "തരീഖ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "27 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "01 Nov 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          }
+        ],
+        "Class 10": [
+          {
+            "dayNum": 1,
+            "dateStr": "25 Oct 2026",
+            "subject": "തഫ്സീർ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "26 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "28 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "29 Oct 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          }
+        ],
+        "Class 11": [
+          {
+            "dayNum": 1,
+            "dateStr": "25 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "26 Oct 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "27 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "31 Oct 2026",
+            "subject": "തഫ്സീർ"
+          }
+        ],
+        "Class 12": [
+          {
+            "dayNum": 1,
+            "dateStr": "25 Oct 2026",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "27 Oct 2026",
+            "subject": "തഫ്സീർ"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "28 Oct 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "29 Oct 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kjm_general_2026",
+      "boardName": "KJM General Madrasa (Kerala Jamyathul Muallimeen Central Board)",
+      "boardNameMl": "കേരള ജംഇയ്യത്തുൽ മുഅല്ലിമീൻ (KJM) - ജനറൽ മദ്റസ",
+      "academicYear": "2025-2026",
+      "category": "general",
+      "categoryMl": "ജനറൽ മദ്റസ",
+      "description": "KJM Official Public and General Annual Exam Schedule for General Madrasas",
+      "isDefault": false,
+      "publishedAt": "2026-09-14T15:00:00.000Z",
+      "classes": {
+        "1": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തജ്‌വീദ് / ഖുർആൻ (Thajweed)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ് (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖ്‌ലാഖ് (Akhlaq)"
+          }
+        ],
+        "2": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          }
+        ],
+        "3": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          }
+        ],
+        "4": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          }
+        ],
+        "5": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ് (Board Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ് (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ (Aqeedah)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ് (Thareekh)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ (Lisan)"
+          }
+        ],
+        "6": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          }
+        ],
+        "7": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ (Board Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          }
+        ],
+        "8": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          }
+        ],
+        "9": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          }
+        ],
+        "10": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ / ഹദീസ് (Board Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          }
+        ],
+        "11": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "താരീഖ് / സീറ (التاريخ والسيرة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "12": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "ബലാഗ / തസവ്വുഫ് (ഫൈനൽ പരീക്ഷ) (البلاغة والتصوف)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 1": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തജ്‌വീദ് / ഖുർആൻ (Thajweed)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ് (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖ്‌ലാഖ് (Akhlaq)"
+          }
+        ],
+        "Class 2": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          }
+        ],
+        "Class 3": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          }
+        ],
+        "Class 4": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          }
+        ],
+        "Class 5": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ് (Board Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ് (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ (Aqeedah)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ് (Thareekh)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ (Lisan)"
+          }
+        ],
+        "Class 6": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          }
+        ],
+        "Class 7": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ (Board Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          }
+        ],
+        "Class 8": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          }
+        ],
+        "Class 9": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          }
+        ],
+        "Class 10": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ / ഹദീസ് (Board Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖീദ"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാൻ"
+          }
+        ],
+        "Class 11": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "താരീഖ് / സീറ (التاريخ والسيرة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 12": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "ബലാഗ / തസവ്വുഫ് (ഫൈനൽ പരീക്ഷ) (البلاغة والتصوف)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ]
+      }
+    },
+    {
+      "id": "knm_general_2026",
+      "boardName": "KNM Vidhyabhyasa Board (Kerala Nadvathul Mujahideen)",
+      "boardNameMl": "കെ.എൻ.എം വിദ്യാഭ്യാസ ബോർഡ് (KNM) - ജനറൽ മദ്റസ",
+      "academicYear": "2025-2026",
+      "category": "general",
+      "categoryMl": "ജനറൽ മദ്റസ",
+      "description": "KNM Kerala Nadvathul Mujahideen Annual Madrasa Exam Schedule",
+      "isDefault": false,
+      "publishedAt": "2026-09-14T15:00:00.000Z",
+      "classes": {
+        "1": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ (Quran)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "തൗഹീദ് / അഖീദ (Thowheed)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഫിഖ്ഹ് (Fiqh)"
+          }
+        ],
+        "2": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ (Quran)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "തൗഹീദ് (Thowheed)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഫിഖ്ഹ് (Fiqh)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ് (Thareekh)"
+          }
+        ],
+        "3": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "തൗഹീദ് & അഖീദ"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ് & സീറ"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          }
+        ],
+        "4": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഖുർആൻ, തദ്‌രീബുത്തലാവഃ, ഹിഫ്ള് (القرآن وتدريب التلاوة، الحفظ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "5": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ് (Board Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "തൗഹീദ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "15 Aug 2026",
+            "subject": "അഖ്‌ലാഖ്"
+          }
+        ],
+        "6": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഖുർആൻ, ഹിഫ്ള് (القرآن ، الحفظ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "തജ്‌വീദ് (التجويد)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 7,
+            "dateStr": "25-07-2026 (Sat)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "7": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ (Board Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "തൗഹീദ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          }
+        ],
+        "8": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "9": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "10": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ / ഹദീസ് (Board Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "തൗഹീദ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          }
+        ],
+        "11": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "താരീഖ് / സീറ (التاريخ والسيرة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "12": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "ബലാഗ / തസവ്വുഫ് (ഫൈനൽ പരീക്ഷ) (البلاغة والتصوف)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 1": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ (Quran)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "തൗഹീദ് / അഖീദ (Thowheed)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഫിഖ്ഹ് (Fiqh)"
+          }
+        ],
+        "Class 2": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ (Quran)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "തൗഹീദ് (Thowheed)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഫിഖ്ഹ് (Fiqh)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ് (Thareekh)"
+          }
+        ],
+        "Class 3": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ്"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "തൗഹീദ് & അഖീദ"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ് & സീറ"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          }
+        ],
+        "Class 5": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ / തജ്‌വീദ് (Board Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "തൗഹീദ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "15 Aug 2026",
+            "subject": "അഖ്‌ലാഖ്"
+          }
+        ],
+        "Class 7": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ (Board Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "തൗഹീദ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "താരീഖ്"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          }
+        ],
+        "Class 10": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ / ഹദീസ് (Board Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "തൗഹീദ്"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഫിഖ്ഹ്"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "ലിസാനുൽ ഖുർആൻ"
+          }
+        ],
+        "Class 4": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഖുർആൻ, തദ്‌രീബുത്തലാവഃ, ഹിഫ്ള് (القرآن وتدريب التلاوة، الحفظ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 6": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഖുർആൻ, ഹിഫ്ള് (القرآن ، الحفظ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "തജ്‌വീദ് (التجويد)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 7,
+            "dateStr": "25-07-2026 (Sat)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 8": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 9": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "താരീഖ് (التاريخ)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 11": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "താരീഖ് / സീറ (التاريخ والسيرة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 12": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "ബലാഗ / തസവ്വുഫ് (ഫൈനൽ പരീക്ഷ) (البلاغة والتصوف)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ]
+      }
+    },
+    {
+      "id": "skimvb_school_2026",
+      "boardName": "SKIMVB School Madrasa (Samastha English Medium School Madrasa Board)",
+      "boardNameMl": "സമസ്ത സ്കൂൾ മദ്റസ ബോർഡ് (SKIMVB School Madrasa - English Medium)",
+      "academicYear": "2025-2026",
+      "category": "school",
+      "categoryMl": "സ്കൂൾ മദ്റസ",
+      "description": "Integrated School Madrasa Timetable for English Medium Schools (Class 1 to 10)",
+      "isDefault": false,
+      "publishedAt": "2026-09-14T15:00:00.000Z",
+      "classes": {
+        "1": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ പാരായണം & ഹിഫ്ദ് (Quran Recitation)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ദീനിയ്യാത്ത് & ഫിഖ്ഹ് (Deeniyath & Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് മോറൽസ് & അഖ്‌ലാഖ് (Moral Science)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "അറബിക് റീഡിങ് & റൈറ്റിങ് (Arabic)"
+          }
+        ],
+        "2": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ പാരായണം & ഹിഫ്ദ് (Quran)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ദീനിയ്യാത്ത് & ഫിഖ്ഹ് (Deeniyath)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് മോറൽസ് & അഖ്‌ലാഖ് (Moral Values)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "അറബിക് പാഠാവലി (Arabic Reader)"
+          }
+        ],
+        "3": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "വിശുദ്ധ ഖുർആൻ & തജ്‌വീദ് (Holy Quran & Thajweed)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് ഫെയ്ത്ത് & ഫിഖ്ഹ് (Aqeedah & Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം & സീറ (Islamic History)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് സ്റ്റഡീസ് (Islamic Studies)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "അറബിക് ലാംഗ്വേജ് (Arabic)"
+          }
+        ],
+        "4": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "വിശുദ്ധ ഖുർആൻ & തജ്‌വീദ് (Quran)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "കർമ്മശാസ്ത്രം / ഫിഖ്ഹ് (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം & സീറ (Islamic History)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് സ്റ്റഡീസ് & മോറൽസ് (Islamic Studies)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "അറബിക് ലാംഗ്വേജ് (Arabic)"
+          }
+        ],
+        "5": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "വിശുദ്ധ ഖുർആൻ & തജ്‌വീദ് (School Board Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "കർമ്മശാസ്ത്രം / ഫിഖ്ഹ് (Islamic Jurisprudence)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "വിശ്വാസ കാര്യങ്ങൾ / അഖീദ (Aqeedah)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം & സീറ (History & Seerah)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "അറബിക് ഗ്രാമർ & ലിറ്ററേച്ചർ (Arabic)"
+          }
+        ],
+        "6": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ സ്റ്റഡീസ് & തഫ്സീർ (Quran Studies)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക കർമ്മശാസ്ത്രം / ഫിഖ്ഹ് (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം & സംസ്കാരം (Islamic Culture)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് സ്റ്റഡീസ് & എത്തിക്സ് (Islamic Studies)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "കമ്യൂണിക്കേറ്റീവ് അറബിക് (Arabic)"
+          }
+        ],
+        "7": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ & തഫ്സീർ (School Board Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക കർമ്മശാസ്ത്രം / ഫിഖ്ഹ് (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഹദീസ് പഠനം & മോറൽസ് (Hadith & Morals)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം & ഖിലാഫത്ത് (Islamic History)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "അറബിക് ലാംഗ്വേജ് (Arabic Communicative)"
+          }
+        ],
+        "8": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ & ഖുർആൻ സ്റ്റഡീസ് (Thafseer)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ് & സമകാലിക പ്രശ്നങ്ങൾ (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഹദീസ് പഠനം (Hadith Studies)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം (Islamic History)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "അറബിക് (Arabic Language)"
+          }
+        ],
+        "9": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ & ഖുർആൻ പഠനം (Thafseer)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ് & ഉസൂൽ (Islamic Jurisprudence)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഹദീസ് & സീറ (Hadith & Seerah)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം (Islamic History)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "അറബിക് (Arabic Communicative)"
+          }
+        ],
+        "10": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ & ഹദീസ് (School Madrasa Public Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക കർമ്മശാസ്ത്രം / ഫിഖ്ഹ് (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക സംസ്കാരവും ചരിത്രവും (Islamic Heritage)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് സ്റ്റഡീസ് & എത്തിക്സ് (Islamic Studies)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "അറബിക് ലാംഗ്വേജ് & ലിറ്ററേച്ചർ (Arabic)"
+          }
+        ],
+        "11": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "താരീഖ് / സീറ (التاريخ والسيرة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "12": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "ബലാഗ / തസവ്വുഫ് (ഫൈനൽ പരീക്ഷ) (البلاغة والتصوف)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 1": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ പാരായണം & ഹിഫ്ദ് (Quran Recitation)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ദീനിയ്യാത്ത് & ഫിഖ്ഹ് (Deeniyath & Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് മോറൽസ് & അഖ്‌ലാഖ് (Moral Science)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "അറബിക് റീഡിങ് & റൈറ്റിങ് (Arabic)"
+          }
+        ],
+        "Class 2": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ പാരായണം & ഹിഫ്ദ് (Quran)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ദീനിയ്യാത്ത് & ഫിഖ്ഹ് (Deeniyath)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് മോറൽസ് & അഖ്‌ലാഖ് (Moral Values)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "അറബിക് പാഠാവലി (Arabic Reader)"
+          }
+        ],
+        "Class 3": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "വിശുദ്ധ ഖുർആൻ & തജ്‌വീദ് (Holy Quran & Thajweed)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് ഫെയ്ത്ത് & ഫിഖ്ഹ് (Aqeedah & Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം & സീറ (Islamic History)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് സ്റ്റഡീസ് (Islamic Studies)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "അറബിക് ലാംഗ്വേജ് (Arabic)"
+          }
+        ],
+        "Class 4": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "വിശുദ്ധ ഖുർആൻ & തജ്‌വീദ് (Quran)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "കർമ്മശാസ്ത്രം / ഫിഖ്ഹ് (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം & സീറ (Islamic History)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് സ്റ്റഡീസ് & മോറൽസ് (Islamic Studies)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "അറബിക് ലാംഗ്വേജ് (Arabic)"
+          }
+        ],
+        "Class 5": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "വിശുദ്ധ ഖുർആൻ & തജ്‌വീദ് (School Board Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "കർമ്മശാസ്ത്രം / ഫിഖ്ഹ് (Islamic Jurisprudence)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "വിശ്വാസ കാര്യങ്ങൾ / അഖീദ (Aqeedah)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം & സീറ (History & Seerah)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "അറബിക് ഗ്രാമർ & ലിറ്ററേച്ചർ (Arabic)"
+          }
+        ],
+        "Class 6": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ സ്റ്റഡീസ് & തഫ്സീർ (Quran Studies)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക കർമ്മശാസ്ത്രം / ഫിഖ്ഹ് (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം & സംസ്കാരം (Islamic Culture)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് സ്റ്റഡീസ് & എത്തിക്സ് (Islamic Studies)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "കമ്യൂണിക്കേറ്റീവ് അറബിക് (Arabic)"
+          }
+        ],
+        "Class 7": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ & തഫ്സീർ (School Board Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക കർമ്മശാസ്ത്രം / ഫിഖ്ഹ് (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഹദീസ് പഠനം & മോറൽസ് (Hadith & Morals)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം & ഖിലാഫത്ത് (Islamic History)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "അറബിക് ലാംഗ്വേജ് (Arabic Communicative)"
+          }
+        ],
+        "Class 8": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ & ഖുർആൻ സ്റ്റഡീസ് (Thafseer)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ് & സമകാലിക പ്രശ്നങ്ങൾ (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഹദീസ് പഠനം (Hadith Studies)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം (Islamic History)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "അറബിക് (Arabic Language)"
+          }
+        ],
+        "Class 9": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ & ഖുർആൻ പഠനം (Thafseer)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ് & ഉസൂൽ (Islamic Jurisprudence)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഹദീസ് & സീറ (Hadith & Seerah)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം (Islamic History)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "അറബിക് (Arabic Communicative)"
+          }
+        ],
+        "Class 10": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ & ഹദീസ് (School Madrasa Public Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക കർമ്മശാസ്ത്രം / ഫിഖ്ഹ് (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക സംസ്കാരവും ചരിത്രവും (Islamic Heritage)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് സ്റ്റഡീസ് & എത്തിക്സ് (Islamic Studies)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "അറബിക് ലാംഗ്വേജ് & ലിറ്ററേച്ചർ (Arabic)"
+          }
+        ],
+        "Class 11": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "താരീഖ് / സീറ (التاريخ والسيرة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 12": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "ബലാഗ / തസവ്വുഫ് (ഫൈനൽ പരീക്ഷ) (البلاغة والتصوف)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ]
+      }
+    },
+    {
+      "id": "central_school_2026",
+      "boardName": "Central Islamic Studies School Madrasa Board",
+      "boardNameMl": "സെൻട്രൽ ഇസ്‌ലാമിക് സ്റ്റഡീസ് സ്കൂൾ മദ്റസ (CBSE / State English Medium)",
+      "academicYear": "2025-2026",
+      "category": "school",
+      "categoryMl": "സ്കൂൾ മദ്റസ",
+      "description": "CBSE & State English Medium School Madrasa Examination Timetable",
+      "isDefault": false,
+      "publishedAt": "2026-09-14T15:00:00.000Z",
+      "classes": {
+        "1": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ ഹിഫ്ദ് & പാരായണം (Quran)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "അഖീദ & ഫിഖ്ഹ് (Faith & Practice)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖ്‌ലാഖ് & പ്രാർത്ഥനകൾ (Moral Values)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "അറബി ഭാഷാ പഠനം (Arabic Basics)"
+          }
+        ],
+        "2": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ ഹിഫ്ദ് & പാരായണം (Quran)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "അഖീദ & ഫിഖ്ഹ് (Faith & Practice)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖ്‌ലാഖ് & പ്രാർത്ഥനകൾ (Moral Values)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "അറബി ഭാഷാ പഠനം (Arabic)"
+          }
+        ],
+        "3": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ & തജ്‌വീദ് (Quran Recitation)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് ഫെയ്ത്ത് & ഫിഖ്ഹ് (Islamic Faith)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "പ്രവാചക ചരിത്രം & സീറ (Prophet's Life)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "അറബിക് റീഡർ (Arabic Reader)"
+          }
+        ],
+        "4": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ & തജ്‌വീദ് (Quran Recitation)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് ഫെയ്ത്ത് & ഫിഖ്ഹ് (Fiqh & Faith)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "പ്രവാചക ചരിത്രം & സീറ (Seerah)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "അറബിക് റീഡർ (Arabic Reader)"
+          }
+        ],
+        "5": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ തജ്‌വീദ് & ഹിഫ്ദ് (Central Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് ഫിഖ്ഹ് & ശരീഅത്ത് (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം (Islamic History)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് സ്റ്റഡീസ് & മോറൽസ് (Islamic Studies)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "അറബിക് ഗ്രാമർ & ടെക്സ്റ്റ് (Arabic)"
+          }
+        ],
+        "6": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീറുൽ ഖുർആൻ (Quran Studies)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് ഫിഖ്ഹ് (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം & ഖുലഫാക്കൾ (History)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് സ്റ്റഡീസ് (Islamic Studies)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "കമ്യൂണിക്കേറ്റീവ് അറബിക് (Arabic)"
+          }
+        ],
+        "7": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീറുൽ ഖുർആൻ (Central Board Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് ഫിഖ്ഹ് & അഖീദ (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഹദീസ് സ്റ്റഡീസ് & എത്തിക്സ് (Hadith)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക നാഗരികത (Islamic Civilization)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "അറബിക് ലാംഗ്വേജ് (Arabic)"
+          }
+        ],
+        "8": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ & ഹദീസ് (Thafseer & Hadith)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ് & സമകാലിക ചിന്തകൾ (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം (Islamic History)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "അറബിക് ലാംഗ്വേജ് (Arabic)"
+          }
+        ],
+        "9": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ & ഹദീസ് (Thafseer & Hadith)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ് & ഉസൂൽ (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം (Islamic History)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "അറബിക് (Arabic)"
+          }
+        ],
+        "10": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ & ഹദീസ് (Public Board Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് ജൂറിസ്പ്രൂഡൻസ് / ഫിഖ്ഹ് (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് സ്റ്റഡീസ് & ഹിസ്റ്ററി (Islamic Heritage)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "അറബിക് ലാംഗ്വേജ് (Arabic Literature)"
+          }
+        ],
+        "11": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "താരീഖ് / സീറ (التاريخ والسيرة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "12": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "ബലാഗ / തസവ്വുഫ് (ഫൈനൽ പരീക്ഷ) (البلاغة والتصوف)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 1": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ ഹിഫ്ദ് & പാരായണം (Quran)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "അഖീദ & ഫിഖ്ഹ് (Faith & Practice)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖ്‌ലാഖ് & പ്രാർത്ഥനകൾ (Moral Values)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "അറബി ഭാഷാ പഠനം (Arabic Basics)"
+          }
+        ],
+        "Class 2": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ ഹിഫ്ദ് & പാരായണം (Quran)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "അഖീദ & ഫിഖ്ഹ് (Faith & Practice)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "അഖ്‌ലാഖ് & പ്രാർത്ഥനകൾ (Moral Values)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "അറബി ഭാഷാ പഠനം (Arabic)"
+          }
+        ],
+        "Class 3": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ & തജ്‌വീദ് (Quran Recitation)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് ഫെയ്ത്ത് & ഫിഖ്ഹ് (Islamic Faith)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "പ്രവാചക ചരിത്രം & സീറ (Prophet's Life)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "അറബിക് റീഡർ (Arabic Reader)"
+          }
+        ],
+        "Class 4": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ & തജ്‌വീദ് (Quran Recitation)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് ഫെയ്ത്ത് & ഫിഖ്ഹ് (Fiqh & Faith)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "പ്രവാചക ചരിത്രം & സീറ (Seerah)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "അറബിക് റീഡർ (Arabic Reader)"
+          }
+        ],
+        "Class 5": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "ഖുർആൻ തജ്‌വീദ് & ഹിഫ്ദ് (Central Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് ഫിഖ്ഹ് & ശരീഅത്ത് (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം (Islamic History)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് സ്റ്റഡീസ് & മോറൽസ് (Islamic Studies)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "അറബിക് ഗ്രാമർ & ടെക്സ്റ്റ് (Arabic)"
+          }
+        ],
+        "Class 6": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീറുൽ ഖുർആൻ (Quran Studies)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് ഫിഖ്ഹ് (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം & ഖുലഫാക്കൾ (History)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് സ്റ്റഡീസ് (Islamic Studies)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "കമ്യൂണിക്കേറ്റീവ് അറബിക് (Arabic)"
+          }
+        ],
+        "Class 7": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീറുൽ ഖുർആൻ (Central Board Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് ഫിഖ്ഹ് & അഖീദ (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഹദീസ് സ്റ്റഡീസ് & എത്തിക്സ് (Hadith)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക നാഗരികത (Islamic Civilization)"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "14 Aug 2026",
+            "subject": "അറബിക് ലാംഗ്വേജ് (Arabic)"
+          }
+        ],
+        "Class 8": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ & ഹദീസ് (Thafseer & Hadith)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ് & സമകാലിക ചിന്തകൾ (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം (Islamic History)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "അറബിക് ലാംഗ്വേജ് (Arabic)"
+          }
+        ],
+        "Class 9": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ & ഹദീസ് (Thafseer & Hadith)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഫിഖ്ഹ് & ഉസൂൽ (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക ചരിത്രം (Islamic History)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "അറബിക് (Arabic)"
+          }
+        ],
+        "Class 10": [
+          {
+            "dayNum": 1,
+            "dateStr": "10 Aug 2026",
+            "subject": "തഫ്സീർ & ഹദീസ് (Public Board Exam)"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "11 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് ജൂറിസ്പ്രൂഡൻസ് / ഫിഖ്ഹ് (Fiqh)"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "12 Aug 2026",
+            "subject": "ഇസ്‌ലാമിക് സ്റ്റഡീസ് & ഹിസ്റ്ററി (Islamic Heritage)"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "13 Aug 2026",
+            "subject": "അറബിക് ലാംഗ്വേജ് (Arabic Literature)"
+          }
+        ],
+        "Class 11": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "താരീഖ് / സീറ (التاريخ والسيرة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ],
+        "Class 12": [
+          {
+            "dayNum": 1,
+            "dateStr": "18-07-2026 (Sat)",
+            "subject": "ദുറൂസുൽ ഇഹ്സാൻ (دروس الإحسان)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 2,
+            "dateStr": "19-07-2026 (Sun)",
+            "subject": "ഫിഖ്ഹ് (الفقه)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 3,
+            "dateStr": "20-07-2026 (Mon)",
+            "subject": "തഫ്സീർ (التفسير)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 4,
+            "dateStr": "21-07-2026 (Tue)",
+            "subject": "ലിസാനുൽ ഖുർആൻ (لسان القرآن)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 5,
+            "dateStr": "22-07-2026 (Wed)",
+            "subject": "ബലാഗ / തസവ്വുഫ് (ഫൈനൽ പരീക്ഷ) (البلاغة والتصوف)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          },
+          {
+            "dayNum": 6,
+            "dateStr": "23-07-2026 (Thu)",
+            "subject": "അഖീദ (العقيدة)",
+            "timeStr": "06:30 AM - 08:30 AM"
+          }
+        ]
+      }
+    }
+  ]
+}

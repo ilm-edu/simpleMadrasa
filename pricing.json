@@ -1,0 +1,43 @@
+{
+  "packageTitle": "Print & Courier Delivery Package",
+  "packageTitleMl": "പാക്കേജ് തുക വിവരങ്ങൾ",
+  "packageSubtitle": "Standard sticker paper and door attendance registers delivered directly to your Madrasa address",
+  "packageSubtitleMl": "നിങ്ങൾക്ക് പ്രിന്ററില്ലെങ്കിൽ സാധാരണ സ്റ്റിക്കർ പേപ്പറിൽ പ്രിന്റ് ചെയ്ത് നിങ്ങളുടെ അഡ്രസ്സിലേക്ക് അയച്ചു തരുന്നു",
+  "whatsappSupportPhone": "919633465267",
+  "freeDeliveryThreshold": 1000,
+  "courierFee": 80,
+  "courierTitle": "Speed Post / Courier Delivery",
+  "courierTitleMl": "സ്പീഡ് പോസ്റ്റ് / കൊറിയർ ഡെലിവറി",
+  "courierDesc": "Safe and fast delivery across Kerala via India Post / DTDC",
+  "courierDescMl": "കേരളത്തിലുടനീളം സ്പീഡ് പോസ്റ്റ് / DTDC വഴി മദ്റസയിലേക്ക് നേരിട്ട് എത്തിക്കുന്നു",
+  "items": [
+    {
+      "id": "desk_stickers",
+      "name": "Standard Sticker Paper",
+      "nameMl": "സ്റ്റാൻഡേർഡ് ഡെസ്ക് സ്റ്റിക്കർ പേപ്പർ",
+      "description": "Heavy 250 GSM waterproof laminated stickers with Roll No, Class, Arabic name & Hall index",
+      "descriptionMl": "250 GSM ലാമിനേറ്റ് ചെയ്ത വാട്ടർപ്രൂഫ് ഡെസ്ക് സ്റ്റിക്കറുകൾ (റോൾ നമ്പർ, ക്ലാസ്സ്, അറബിക് പേര് സഹിതം)",
+      "pricingType": "fixed",
+      "price": 199,
+      "unitPrice": 199,
+      "defaultQtyLabel": "Seats",
+      "enabled": true,
+      "isMandatory": true,
+      "icon": "Sparkles"
+    },
+    {
+      "id": "door_registers",
+      "name": "Hall Door Attendance & Seating Slips",
+      "nameMl": "പരീക്ഷാ ഹാൾ ഡോർ അറ്റൻഡൻസ് രജിസ്റ്ററുകൾ",
+      "description": "Class-wise student door attendance sheets and hall seating matrix for notice boards",
+      "descriptionMl": "ഹാളിന്റെ വാതിലിൽ ഒട്ടിക്കുന്ന എ-ക്ലാസ്സ് അറ്റൻഡൻസ് ചാർട്ടും സീറ്റിംഗ് മാട്രിക്സ് സ്ലിപ്പുകളും",
+      "pricingType": "fixed",
+      "price": 100,
+      "unitPrice": 100,
+      "defaultQtyLabel": "Halls",
+      "enabled": true,
+      "isMandatory": false,
+      "icon": "FileText"
+    }
+  ]
+}

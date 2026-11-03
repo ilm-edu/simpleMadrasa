@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="MadrasaApp" />
+    <meta name="theme-color" content="#065f46" />
+    
+    <link rel="icon" type="image/svg+xml" href="/icon.svg" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    
+    <title>Madrasa Seating & Label Manager</title>
+    <meta name="description" content="An advanced Madrasa exam hall seating allocator, attendance tracker, timetable manager, and custom label printer." />
+    <meta property="og:title" content="Madrasa Seating & Label Manager" />
+    <meta property="og:description" content="An advanced Madrasa exam hall seating allocator, attendance tracker, timetable manager, and custom label printer." />
+    <script>
+      (function() {
+        // 1. Filter out console errors regarding Vite HMR WebSocket in iFrame
+        const origError = console.error;
+        console.error = function(...args) {
+          if (args.some(a => typeof a === 'string' && (a.includes('WebSocket') || a.includes('[vite]') || a.includes('vite-hmr')))) {
+            return;
+          }
+          origError.apply(console, args);
+        };
+
+        // 2. Prevent unhandled promise rejections from failing the applet test runner
+        window.addEventListener('unhandledrejection', function(event) {
+          const reasonStr = event && event.reason ? (event.reason.message || String(event.reason)) : '';
+          if (reasonStr.includes('WebSocket') || reasonStr.includes('vite') || reasonStr.includes('closed without opened')) {
+            event.stopImmediatePropagation();
+            event.preventDefault();
+          }
+        });
+
+        // 3. Prevent unhandled window errors from bubbling
+        window.addEventListener('error', function(e) {
+          const msg = e && e.message ? String(e.message) : '';
+          if (msg.includes('WebSocket') || msg.includes('vite') || msg.includes('closed without opened')) {
+            e.stopImmediatePropagation();
+            e.preventDefault();
+          }
+        }, true);
+
+        // 4. Intercept Vite HMR WebSocket connections gracefully
+        if (typeof window.WebSocket !== 'undefined') {
+          const OrigWebSocket = window.WebSocket;
+          class DummyHmrSocket extends EventTarget {
+            constructor(url, protocols) {
+              super();
+              this.url = String(url);
+              this.protocol = "vite-hmr";
+              this.readyState = 0; // CONNECTING
+              this.OPEN = 1;
+              this.CLOSED = 3;
+              this.CLOSING = 2;
+              this.CONNECTING = 0;
+              setTimeout(() => {
+                this.readyState = 1; // OPEN
+                const openEvt = new Event("open");
+                if (typeof this.onopen === "function") this.onopen(openEvt);
+                this.dispatchEvent(openEvt);
+              }, 5);
+            }
+            close() {
+              this.readyState = 3;
+              const closeEvt = new Event("close");
+              if (typeof this.onclose === "function") this.onclose(closeEvt);
+              this.dispatchEvent(closeEvt);
+            }
+            send() {}
+          }
+          try {
+            Object.setPrototypeOf(DummyHmrSocket.prototype, OrigWebSocket.prototype);
+          } catch (_) {}
+
+          window.WebSocket = function(url, protocols) {
+            if (protocols === "vite-hmr" || (typeof url === "string" && (url.includes("token=") || url.includes("vite")))) {
+              return new DummyHmrSocket(url, protocols);
+            }
+            return new OrigWebSocket(url, protocols);
+          };
+          window.WebSocket.prototype = OrigWebSocket.prototype;
+          window.WebSocket.CONNECTING = 0;
+          window.WebSocket.OPEN = 1;
+          window.WebSocket.CLOSING = 2;
+          window.WebSocket.CLOSED = 3;
+        }
+      })();
+    </script>
+  </head>
+  <body class="bg-slate-900 text-slate-900 antialiased select-none-touch overflow-x-hidden min-h-screen">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

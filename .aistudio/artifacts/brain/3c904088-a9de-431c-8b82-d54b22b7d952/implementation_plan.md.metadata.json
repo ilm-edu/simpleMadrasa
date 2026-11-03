@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for transforming the Super Admin Timetable & Subject Directory system into a completely clean, user-driven, step-by-step wizard. All hardcoded subjects and board seeds are removed, dropdowns strictly reflect the custom subject directory, and saved boards publish immediately to all madrasa users.",
+  "updatedAt":  "2026-11-01T12:09:22.743628898Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

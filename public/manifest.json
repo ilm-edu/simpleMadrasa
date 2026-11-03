@@ -1,0 +1,23 @@
+{
+  "name": "Madrasa Seating & Exam Master",
+  "short_name": "MadrasaExam",
+  "description": "Smart Madrasa Exam Hall Seating & Student Label Printing System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#022c22",
+  "theme_color": "#065f46",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "categories": ["education", "productivity", "utilities"]
+}

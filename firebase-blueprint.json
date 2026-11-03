@@ -1,0 +1,69 @@
+{
+  "entities": {
+    "Institution": {
+      "title": "Institution",
+      "description": "Multi-tenant Madrasa / Institution Profile",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "regNo": { "type": "string" },
+        "place": { "type": "string" },
+        "phone": { "type": "string" },
+        "email": { "type": "string" },
+        "ownerUid": { "type": "string" },
+        "role": { "type": "string" },
+        "createdAt": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["name", "ownerUid"]
+    },
+    "InstitutionData": {
+      "title": "InstitutionData",
+      "description": "Full exam allocation and master state data for an institution",
+      "type": "object",
+      "properties": {
+        "students": { "type": "array" },
+        "halls": { "type": "array" },
+        "seatingPlan": { "type": "object" },
+        "madrasaName": { "type": "string" },
+        "madrasaRegNo": { "type": "string" },
+        "madrasaPlace": { "type": "string" },
+        "madrasaPhone": { "type": "string" },
+        "attendanceDays": { "type": "number" },
+        "examDates": { "type": "array" },
+        "examTimetables": { "type": "object" },
+        "hallTicketInstructions": { "type": "array" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["updatedAt"]
+    },
+    "SystemConfig": {
+      "title": "SystemConfig",
+      "description": "Global application configuration and app module visibility settings",
+      "type": "object",
+      "properties": {
+        "appName": { "type": "string" },
+        "adminWhatsApp": { "type": "string" },
+        "adminPhone": { "type": "string" },
+        "appModulesStatus": { "type": "object" },
+        "superAdmins": { "type": "array" },
+        "updatedAt": { "type": "string" }
+      }
+    }
+  },
+  "firestore": {
+    "/institutions/{institutionId}": {
+      "schema": "Institution",
+      "description": "Registered institutions and profiles"
+    },
+    "/institutions/{institutionId}/data/{docId}": {
+      "schema": "InstitutionData",
+      "description": "Institution exam data"
+    },
+    "/system_settings/{docId}": {
+      "schema": "SystemConfig",
+      "description": "Global system configurations"
+    }
+  }
+}
